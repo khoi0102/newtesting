@@ -1,0 +1,18 @@
+{
+  "name": "tolist",
+  "version": "1.0.0",
+  "description": "a todo list",
+  "main": "yes",
+  "scripts": {
+    "test": "echo 'we need some test'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "newtesting"
+  },
+  "keywords": [
+    "Yes"
+  ],
+  "author": "Khoi",
+  "license": "UNLICENSED"
+}
